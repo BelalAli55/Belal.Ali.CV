@@ -73,5 +73,7 @@ Get in Touch!
 🌍 Portfolio: [Your Website Link]
 💼 LinkedIn: [Your LinkedIn Profile]
 
+https://github.com/BelalAli55/Belal.Ali.CV/blob/main/Belal.Ali.CV.pdf
+
 🚀 Let's Start Your Next Project Together!
 
