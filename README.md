@@ -23,7 +23,7 @@ Technical Skills
 
 Key Projects
 
-🔹 WhatsApp Clone
+🔹 Library PlatForm
 
 Developed a real-time chat application using React       
 
